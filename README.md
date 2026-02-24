@@ -3,6 +3,7 @@
 Excited to share my Power BI Sales Performance Dashboard project, where I analyzed Adidas sales data and transformed it into actionable business insights.
 
 🚀 Project Overview
+
  Developed an interactive Power BI Sales Performance Dashboard to analyze Adidas sales data across products, regions, retailers, sales methods, and time periods. The project focuses on transforming raw sales transactions into actionable business insights by tracking revenue, operating profit, sales volume, target achievement, and month-over-month growth to support data-driven decision-making.
 
 🔑 Key Business Insights
