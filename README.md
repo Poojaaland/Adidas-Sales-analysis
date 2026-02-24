@@ -29,10 +29,11 @@ Excited to share my Power BI Sales Performance Dashboard project, where I analyz
 
  <img width="958" height="515" alt="Screenshot 2025-12-15 173552" src="https://github.com/user-attachments/assets/322844e3-c4d2-407d-9d61-a0ffe5004f7c" />
  <img width="958" height="475" alt="Screenshot 2025-12-15 173622" src="https://github.com/user-attachments/assets/bed80927-ef25-4d2a-a31a-709482d06130" />
-holders to:
 
 🎯 Business Value
+
 This dashboard enables stake
+
  • Monitor sales and profitability at multiple business levels
  • Identify top and underperforming regions, retailers, and products
  • Understand seasonality and growth trends
